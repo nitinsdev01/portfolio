@@ -1,0 +1,28 @@
+{
+    "commomItem": {
+        "navigationText": {
+            "firstTab": "home",
+            "secondTab": "about",
+            "thirdTab": "work",
+            "fourthTab": "contact"
+        },
+        "mode": {
+            "lightMode": "Light",
+            "darkMode": "Dark"
+        }
+    },
+    "firstPage": {
+        "intro": {
+            "name": "Nitin Sharma",
+            "logoImg": "URL here",
+            "profile": "Front-end Dev"
+        }
+    },
+    "secondPage": {
+        "intro": {
+            "name": "Nitin Sharma",
+            "logoImg": "URL here",
+            "profile": "Front-end Dev"
+        }
+    }
+}
