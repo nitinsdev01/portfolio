@@ -1,5 +1,6 @@
-<!--./index.js-->
-
-fetch('https://github.com/nitinsdev01/portfolio/blob/main/template.json')
-    .then((response) => response.json())
-    .then((json) => console.log(json));
+data = '[{"name" : "Niroj", "age" : "22"},{"name" : "Dey", "age" : "20"}]';
+var mydata = JSON.parse(data);
+alert(mydata[0].name);
+alert(mydata[0].age);
+alert(mydata[1].name);
+alert(mydata[1].age);
